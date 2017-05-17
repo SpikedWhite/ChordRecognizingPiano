@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\r\n\ Make\ the\ piano.\r\n
+comment2.params=
+comment2.target=void\ makeKeys()
+comment2.text=\r\n\ makeKeys\ creates\ a\ key\ object\ at\ said\ location\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ makeAllKeysArray()
+comment3.text=\r\n\ makeAllKeysArray\ does\ stuff\ and\ things\ for\ the\ piano\r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=downKeys
+comment5.target=void\ checkForSeconds(int[])
+comment5.text=\r\n\ checkforSeconds\ checks\ to\ see\ if\ two\ keys\ are\ pressed\ down\ at\ the\ same\ time\r\n\ @param\ downKeys\ is\ how\ many\ keys\ are\ pressed\ at\ the\ same\ time\r\n\ @return\ nothing\ is\ returned\r\n
+comment6.params=downKeys
+comment6.target=void\ checkForTriads(int[])
+comment6.text=\r\n\ checkforTriads\ checks\ to\ see\ if\ three\ keys\ are\ pressed\ down\ at\ the\ same\ time\r\n\ @param\ downKeys\ is\ how\ many\ keys\ are\ pressed\ at\ the\ same\ time\r\n\ @return\ nothing\ is\ returned\r\n
+comment7.params=downKeys
+comment7.target=void\ checkForSevenths(int[])
+comment7.text=\r\n\ checkforSevenths\ checks\ to\ see\ if\ four\ keys\ are\ pressed\ down\ at\ the\ same\ time\r\n\ @param\ downKeys\ is\ how\ many\ keys\ are\ pressed\ at\ the\ same\ time\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=8
